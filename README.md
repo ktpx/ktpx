@@ -1,6 +1,6 @@
-- 👋 fmt.Println("Hello!"), I’m @ktpx
-- 👀 I’m interested in all things Linux, coding, automation and crypto.
-- 🌱 I’m currently learning Golang.  C and Perl for everything else.  
+- 👋 fmt.Println("/me tips hat. Greetings."), I’m @ktpx
+- 👀 Main interest are Linux, coding, automation and crypto.
+- 🌱 Mainly now code in Golang, C and Perl for everything else.  
 - 💞️ I dislike snakes, especially Python. 
 - 📫 Feedback always welcome.  
 
